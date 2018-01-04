@@ -1,0 +1,26 @@
+[{
+	"id":0,
+	"text":"crawler",
+	"attributes":{
+		"url":"root",
+		"title":"root",
+		"folder":"1"
+	},
+	"children":[{
+		"id":1,
+		"text":"Crawler Clbus",
+		"iconCls":"icon-magnifier_zoom_in",
+		"attributes":{
+			"folder":"0",
+			"url":"clbus"
+		}
+	},{
+		"id":2,
+		"text":"Crawler Product",
+		"iconCls":"icon-magnifier_zoom_in",
+		"attributes":{
+			"folder":"0",
+			"url":"product"
+		}
+	}]
+}]
